@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "35bc97e8ab699683",
+    "type": "split",
+    "children": [
+      {
+        "id": "62cdf744112d4923",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "494e850242a0d5f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/Dynamic Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "270eff0669f86a6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/Dynamic Memory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d37e02524b63eed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C/Reading Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34195ac52390b174",
+    "type": "split",
+    "children": [
+      {
+        "id": "519b817c249e1351",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a86e97143388446",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d11b81207004624d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14d938c19203a099",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0cb9f9762d984395",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1fcb9f848b58a14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "831f396dbc0fc907",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "C/Reading Files.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "308f60592abe8e38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C/Reading Files.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ee688035aa6f407",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba15add878096e6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "C/Reading Files.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "d37e02524b63eed6",
+  "lastOpenFiles": [
+    "C/Compiler Variables.md",
+    "C/Reading Files.md",
+    "C/Dynamic Memory.md",
+    "Untitled.md",
+    "C/Getting Input.md",
+    "Make/Builtin Functions.md",
+    "Make/Basics.md",
+    "Make/Wildcards.md",
+    "Make/Special Tags.md",
+    "C/Type Casting and Void Params.md"
+  ]
+}
