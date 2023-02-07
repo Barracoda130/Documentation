@@ -1,0 +1,1 @@
+A feature used to take other git repos you don't have access to, to make changes to them and then potentially make a pull request to merge them back into the main repo
