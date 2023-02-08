@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Git/Getting Setup.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ccc3ccc618fa1ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Git/Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "07a42fa289b31791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command Line/SSH Keys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e82ac86f32de585",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command Line/Navigation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Basics.md",
+                "file": "Command Line/SSH Keys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Basics.md",
+                "file": "Command Line/SSH Keys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Basics.md"
+                "file": "Command Line/SSH Keys.md"
               }
             }
           }
@@ -145,17 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d37e02524b63eed6",
+  "active": "07a42fa289b31791",
   "lastOpenFiles": [
-    "Git/Branching.md",
-    "Git/Forking.md",
+    "Command Line/Vim.md",
+    "Command Line/SSH Keys.md",
+    "Command Line/Navigation.md",
+    "C/Type Casting and Void Params.md",
+    "Command Line/Finding.md",
     "Git/Getting Setup.md",
+    "Git/Forking.md",
+    "Git/Branching.md",
     "Git/Basics.md",
-    "Obsidian/Cheat Sheet.md",
-    "Untitled.md",
-    "C/Reading Files.md",
-    "C/Compiler Variables.md",
-    "C/Dynamic Memory.md",
     "C/Getting Input.md"
   ]
 }

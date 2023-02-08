@@ -28,7 +28,7 @@ git remote add origin {github link}
 4. Push
 ```shell
 git push origin master
-// OR
+# OR
 git push -u origin master
 ```
 - The structure of this command is `git push {repo} {branch}`
@@ -38,7 +38,7 @@ git push -u origin master
 This is the same as step 2 from above, just if you want to do everything from the command line.
 ```shell
 curl -u {username} https://api.github.com/user/repos -d "{\"name\":\"{Reop-Name}\",\"private\":true}"
-// OR
+# OR
 curl -u {username}:{githubToken} https://api.github.com/user/repos -d "{\"name\":\"{reop-Name}\",\"private\":true}"
 ```
 - Replace `{username}` with your github username

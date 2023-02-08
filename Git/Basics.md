@@ -9,7 +9,7 @@ When you have made changes to a file/folders this tells git to track those chang
 Need to run this command before you commit.
 ```shell
 git add fileName
-// OR
+# OR
 git add .
 ```
 - `git add .` will add all files in current directory to tracking.
@@ -21,7 +21,7 @@ git add .
 To undo a stage (add) type:
 ```shell
 git reset
-// OR
+# OR
 git reset fileName
 ```
 - This will unstage either all files staged or the file(s) specified.
@@ -31,9 +31,9 @@ Save changes made in code to Git.
 When committing, it will only save to local machine. Need to use [[#`push`| git push]]
 ```
 git commit -m "commit message"
-// OR
+# OR
 git commit -m "Commit message title" -m "Commit message description"
-// OR
+# OR
 git commit -am "Commit message"
 ```
 - The `-am` flag is actually two flags, `-m` is the one we've seen before, `-a` is used to add all modified files to the commit. This will only add files that have ALREADY BEEN ADDED on a previous commit.
@@ -43,7 +43,7 @@ There are 2 ways to undo a commit:
 **1.** Undo the most recent commit(s)
 ```shell
 git reset HEAD~1
-// OR
+# OR
 git reset --hard HEAD~2
 ```
 - `HEAD` is the most recent commit and so `HEAD~1` is the one before that, `HEAD~2` is 2 before that etc.
@@ -69,16 +69,10 @@ git push
 When there are changes on Github and you want to bring them to your local machine
 ```
 git pull
-// OR
+# OR
 git pull origin master
 ```
 - `origin` is whatever you have named the repo and `master` is the branch. If you want to pull a different branch, change `master` to the branch name
-
-## `status`
-Shows all files that have been update but not committed yet.
-```shell
-git status
-```
 
 ## `diff`
 Shows all changes between current code and the most recent commit.
