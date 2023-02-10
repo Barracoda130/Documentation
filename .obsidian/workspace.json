@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Command Line/Vim.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2c283b8ae27a3ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Git/Basics.md",
                 "mode": "source",
                 "source": false
@@ -32,36 +44,12 @@
             }
           },
           {
-            "id": "07a42fa289b31791",
+            "id": "07cd074f03dae7c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Command Line/SSH Keys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f5012f69737112f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Git/Getting Setup.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e82ac86f32de585",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Command Line/Navigation.md",
+                "file": "C/Make/Wildcards.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Getting Setup.md",
+                "file": "C/Make/Wildcards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Getting Setup.md",
+                "file": "C/Make/Wildcards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Getting Setup.md"
+                "file": "C/Make/Wildcards.md"
               }
             }
           }
@@ -194,17 +182,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f5012f69737112f",
+  "active": "07cd074f03dae7c5",
   "lastOpenFiles": [
-    "Command Line/Vim.md",
-    "Command Line/Finding.md",
-    "Command Line/Style.md",
-    "Command Line/SSH Keys.md",
-    "Git/Getting Setup.md",
-    "Command Line/Navigation.md",
+    "C/Reading Files.md",
     "C/Type Casting and Void Params.md",
-    "Git/Forking.md",
+    "Git/Config Settings.md",
+    "Git/Basics.md",
+    "Obsidian/Cheat Sheet.md",
     "Git/Branching.md",
-    "Git/Basics.md"
+    "C/GDB/Basic Commands.md",
+    "Command Line/Vim.md",
+    "Git/Getting Setup.md",
+    "Git/Forking.md"
   ]
 }

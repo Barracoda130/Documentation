@@ -4,7 +4,7 @@ Let us define a function:
 %.o: %.c
 ```
 The `%` wildcard here can be used to replace anything. 
-For example, I can call this using `make file1.o` and the function will read `file1.o: file1.c`. The `%` in the [[Basics#Targets|target]] is the same in the [[Basics#Prerequisites|prerequisites]]. So in this example, the `%` is `file1`.
+For example, I can call this using `make file1.o` and the function will read `file1.o: file1.c`. The `%` in the [[C/Make/Basics#Targets|target]] is the same in the [[C/Make/Basics#Prerequisites|prerequisites]]. So in this example, the `%` is `file1`.
 
 ### $@
 For the function:
@@ -12,7 +12,7 @@ For the function:
 %.o: %.c
 	gcc input.c -c -o $@
 ```
-The `$@` represents the [[Basics#Targets|target]] of the function (any wildcards included).
+The `$@` represents the [[C/Make/Basics#Targets|target]] of the function (any wildcards included).
 
 ### $^ / $<
 For the function:
@@ -21,7 +21,7 @@ For the function:
 	gcc $^ -c -o output.o
 	gcc $< -c -o output.o
 ```
-The `$^` and `$<` meant the same thing and represent the [[Basics#Prerequisites|prerequisites]] of the function (any wildcards included).
+The `$^` and `$<` meant the same thing and represent the [[C/Make/Basics#Prerequisites|prerequisites]] of the function (any wildcards included).
 
 ### $*
 For the function:
