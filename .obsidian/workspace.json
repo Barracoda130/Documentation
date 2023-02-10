@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C/Make/Wildcards.md",
+                "file": "C/GDB/Basic Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C/Make/Wildcards.md",
+                "file": "C/GDB/Basic Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C/Make/Wildcards.md",
+                "file": "C/GDB/Basic Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C/Make/Wildcards.md"
+                "file": "C/GDB/Basic Commands.md"
               }
             }
           }
@@ -184,15 +184,15 @@
   },
   "active": "07cd074f03dae7c5",
   "lastOpenFiles": [
+    "C/Debugging/GDB Commands.md",
+    "C/GDB/Basic Commands.md",
+    "C/Make/Wildcards.md",
     "C/Reading Files.md",
     "C/Type Casting and Void Params.md",
     "Git/Config Settings.md",
     "Git/Basics.md",
     "Obsidian/Cheat Sheet.md",
     "Git/Branching.md",
-    "C/GDB/Basic Commands.md",
-    "Command Line/Vim.md",
-    "Git/Getting Setup.md",
-    "Git/Forking.md"
+    "Command Line/Vim.md"
   ]
 }
