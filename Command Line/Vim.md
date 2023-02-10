@@ -111,6 +111,8 @@ Preface any of these with `no` to remove the option: `:set noic`, `:set nohls`, 
 `d2w` - delete until the start of the 2nd word in front
 
 ## Customisation
+`:set number` - adds line numbers
+
 Main way to customise is to edit the `~/.vimrc` file. An example file can be found at `$VIMRUNTIME/vimrc_example.vim`. Read this file into the `.vimrc` file to get started.
 
 ## Help
