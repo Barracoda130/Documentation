@@ -18,7 +18,7 @@ Using a [[#Motions|motion]] on its own will move the cursor instead of performin
 `CTRL-g` - show current line and other details about location in file
 `gg` - move to the start of the file
 `G` - move to the end of the file
-`133G` - move you to line 133 (replace 133 with any line number)
+`133-ENTER` - move you to line 133 (replace 133 with any line number)
 
 `%` - if the cursor is on a bracket, then it will take you to the matching bracket (ie the opening or closing bracket of that pair)
 

@@ -14,5 +14,9 @@ gdb myfile.c
 `quit` - quit debugger
 `break functionName` - breaks at function call
 
+**Displaying Arrays**
+`display array@3` - display an array with 3 elements (change 3 to the number of elements)
+`display *array@*4` - display an array of strings with 4 elements
+
 ## Tips
 In GDB if you type a command and then keep pressing enter, it will keep running the initial command

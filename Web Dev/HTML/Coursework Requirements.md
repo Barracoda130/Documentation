@@ -1,0 +1,30 @@
+-  <title> 
+- <p>
+- <lang>
+- <h1,2,3,4>
+- <sub>, <sup> - sub and superscript
+- <br>
+- <blockquote>, <q> - quoting and citing
+- <abbr> - abbreviation
+- <cite>
+- <address> - info about the page author
+- <del> - strike through text
+- <ins> - underline text
+- <ol>
+- <ul>
+- <dl>
+- <a href> - links
+- <a id, href> - link to paragraph
+- <img>
+- <figure>, <figurecaption>
+- <table>
+- <video>, <audio> - may use JS so may not be able to use
+- <div>, <span>
+- <iframe>
+- <meta>
+- <header>, <footer>
+- <section>
+- <nav>
+- <article>
+- <aside>
+- 
