@@ -19,7 +19,7 @@ CHIP Xor {
 ```
 
 ```hdl
-CHOP Foo {
+CHIP Foo {
 	In in[8];
 	OUT out[8];
 

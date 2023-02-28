@@ -13,7 +13,10 @@ To make something a flexbox type `display: flex;`
 `flex-grow: 1;` - sets the columns to all the same size
 `flex-basis: 33%;` - sets default of 3 columns (33% of the screen)
 
-
+#### Aligning items
+`justify-content: center` - horizontal align centre
+`align-items: center` - vertical align centre
+`gap: 10px;` - the gap between items
 
 ## Grid
 Used to layout elements that want to be arranged in a consistent size in a 2D grid like pattern.
