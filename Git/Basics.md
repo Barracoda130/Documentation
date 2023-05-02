@@ -25,6 +25,10 @@ git reset
 git reset fileName
 ```
 - This will unstage either all files staged or the file(s) specified.
+```shell
+git reset --hard
+```
+will revert to most recent commit
 
 ## `commit`
 Save changes made in code to Git.
