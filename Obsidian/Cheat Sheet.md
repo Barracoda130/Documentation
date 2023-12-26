@@ -26,9 +26,9 @@ To create a webpage link: [text for link] (https://webite.com)
 
 Linking to other parts of obsidian:
 [ [ some other page|the name of the link] ] 
-[[Cheat Sheet|a page]]
+[[Obsidian/Cheat Sheet|a page]]
 [ [ some other page#header ]]
-[[Cheat Sheet#Linking]]
+[[Obsidian/Cheat Sheet#Linking]]
 
 
 

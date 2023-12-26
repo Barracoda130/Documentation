@@ -21,3 +21,16 @@ When capturing nudes, it will completely ignore whitespace so you can put as muc
 ```shell
 g++ -o example example.cpp
 ```
+
+## Dynamic Allocation
+Unlike in C, where we need to use `malloc`, in C++ we can use `new` to dynamically create arrays. To then free it we use `delete[]`.
+```C++
+int *someArray;
+
+someArray = new int[2];  // Creates a 2 element array of ints
+
+// Freeing the array
+delete[] someArray;
+```
+
+

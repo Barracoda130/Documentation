@@ -9,6 +9,7 @@ gdb myfile.c
 ## Commands
 `break 52` - break at line 52
 `display variableName` - Tracks the contents of a variable
+`undisplay variableName` - Removes tracking for that variable
 `run` - runs the program from beginning
 `next` - steps to next line
 `quit` - quit debugger
