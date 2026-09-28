@@ -10,6 +10,17 @@ ssh -T git@github.com
 - Line 3 then adds that SSH key to your list of keys
 - and line 4 then connects to github.
 
+To setup more permenantoy **RECOMMENDED**:
+1. Open `~/.ssh/config`
+2. Write the following (assuming your private ssh key was saved to `~/.ssh/github`):
+```shell
+Host github.com
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/github
+    IdentitiesOnly yes
+```
+
 ## Initialising repositories
 1. Initialise the repository and setup the first commit
 ```shell
