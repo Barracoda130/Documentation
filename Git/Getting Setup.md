@@ -10,7 +10,7 @@ ssh -T git@github.com
 - Line 3 then adds that SSH key to your list of keys
 - and line 4 then connects to github.
 
-To setup more permenantoy **RECOMMENDED**:
+To setup more permenantly **RECOMMENDED**:
 1. Open `~/.ssh/config`
 2. Write the following (assuming your private ssh key was saved to `~/.ssh/github`):
 ```shell
